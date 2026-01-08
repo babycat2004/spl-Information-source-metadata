@@ -6,11 +6,11 @@
     "extension": [
         {
             "type": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/yes-money/"
+            "url": "https://coinmarketcap.com/currencies/global-commercial-business/"
         },
         {
             "type": "coingecko",
-            "url": "https://www.coingecko.com/en/coins/yes-money"
+            "url": "https://www.coingecko.com/en/coins/global-commercial-business"
         }
     ],
     "image": "https://raw.githubusercontent.com/babycat2004/spl-Information-source-image/source-image/Meme Business.png"
