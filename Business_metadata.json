@@ -1,0 +1,17 @@
+{
+    "name": "Meme Business",
+    "symbol": "Business",
+    "description": "Meme Business blends internet humor with entrepreneurship and growth mindset. It symbolizes building, scaling, and hustling—turning memes into smart business ideas.",
+    "tags": ["meme", "business", "entrepreneurship", "building", "smart"],
+    "extension": [
+        {
+            "type": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/yes-money/"
+        },
+        {
+            "type": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/yes-money"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/babycat2004/spl-Information-source-image/source-image/Meme Business.png"
+}
