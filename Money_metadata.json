@@ -1,0 +1,17 @@
+{
+    "name": "Meme Money",
+    "symbol": "Money",
+    "description": "Meme Money is a fun, community-driven meme brand that blends internet culture with the idea of financial freedom. It represents humor, virality, and the spirit of turning memes into value through collective participation.",
+    "tags": ["meme", "money", "community", "fun", "internet culture"],
+    "extension": [
+        {
+            "type": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/yes-money/"
+        },
+        {
+            "type": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/yes-money"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/babycat2004/spl-Information-source-image/source-image/Meme Money.png"
+}
