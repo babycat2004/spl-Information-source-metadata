@@ -1,0 +1,17 @@
+{
+    "name": "Meme Financial",
+    "symbol": "Financial",
+    "description": "Meme Financial combines meme culture with finance and investing concepts. It reflects market awareness, strategy, and the humorous reality of navigating modern financial systems.",
+    "tags": ["meme", "financial", "investing", "market", "systems"],
+    "extension": [
+        {
+            "type": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wen-lambo-financial/"
+        },
+        {
+            "type": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/world-liberty-financial"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/babycat2004/spl-Information-source-image/source-image/Meme Money.png"
+}
