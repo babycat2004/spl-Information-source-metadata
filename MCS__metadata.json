@@ -1,0 +1,17 @@
+{
+    "name": "Meme Cash",
+    "symbol": "MCS",
+    "description": "Meme Cash is a fun, high-energy meme brand centered on money, liquidity, and fast-moving trends. It represents quick gains, viral culture, and the playful side of digital cash.",
+    "tags": ["meme", "cash", "digital", "fun", "liquidity", "fast-moving"],
+    "extension": [
+        {
+            "type": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/cash/"
+        },
+        {
+            "type": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/cash"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/babycat2004/spl-Information-source-image/source-image/Meme Cash.png"
+}
